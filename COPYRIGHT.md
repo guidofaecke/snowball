@@ -1,0 +1,1 @@
+Copyright (c) 2020 Guido Faecke (gfaecke@gmail.com)
